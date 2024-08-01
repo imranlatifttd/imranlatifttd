@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Imran Latif</h1>
 <h3 align="center">A passionate AWS & Full Stack (Python, React) Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibhassan534&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibhassan534" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranlatifttd&label=Profile%20views&color=0e75b6&style=flat" alt="imranlatifttd" /> </p>
 
 <img align="right" alt="Coding GIF" width="480" height="280px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV3a3psMnp2Y2x0MHk5MzhqdjBpazlnNHlnNGZoZXFuemV1N3gzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -15,7 +15,7 @@
 - 📫 How to reach me **imranlatif631@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-	<a href="https://www.linkedin.com/in/imran-latif-6ba4a0167/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zohaib Hassan" height="30" width="40" />
+	<a href="https://www.linkedin.com/in/imran-latif-6ba4a0167/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Imran Latif" height="30" width="40" />
 	</a>
 </p>
 
@@ -36,7 +36,7 @@
 	&nbsp;
   <a href="https://redis.io/" title="Redis" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a> 
 	&nbsp;
-  <a href="https://docs.celeryq.dev/en/stable/_static/celery_512.png" title="Celery" target="_blank" rel="noreferrer"> <img src="https://docs.celeryq.dev/en/stable/getting-started/introduction.html" alt="celery" width="40" height="40"/> </a>
+  <!-- <a href="https://docs.celeryq.dev/en/stable/_static/celery_512.png" title="Celery" target="_blank" rel="noreferrer"> <img src="https://docs.celeryq.dev/en/stable/getting-started/introduction.html" alt="celery" width="40" height="40"/> </a> -->
  	&nbsp;
   <a href="https://reactjs.org/" title="React" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 	&nbsp;
@@ -57,11 +57,11 @@
   <a href="https://kubernetes.io/docs/home/" title="Kubernetes" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> </a>
 	&nbsp;
 	&nbsp;
-  <a href="https://www.atlassian.com/software/jira/guides/getting-started/introduction" title="JIRA" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
+ <!-- <a href="https://www.atlassian.com/software/jira/guides/getting-started/introduction" title="JIRA" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
 	&nbsp;
   <a href="https://www.atlassian.com/software/confluence/features" title="Confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/> </a>
 	&nbsp;
-  <a href="https://postman.com" title="Postman" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://postman.com" title="Postman" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> -->
 </p>
 </br>
 
