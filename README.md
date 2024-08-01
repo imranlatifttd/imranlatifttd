@@ -26,42 +26,42 @@
 <p align="left"> 
 	<a href="https://aws.amazon.com/" title="Amazon Web Services" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
 	&nbsp;
-  <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/en-us" title="Microsoft Azure" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
 	&nbsp;
-  <a href="https://www.python.org/doc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.python.org/doc/" title="Python" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> </a> 
 	&nbsp;
-  <a href="https://docs.djangoproject.com/en/5.0/" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/>  </a>
+  <a href="https://docs.djangoproject.com/en/5.0/" title="Django" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/>  </a>
 	&nbsp;
-  <a href="https://fastapi.tiangolo.com/features/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
+  <a href="https://fastapi.tiangolo.com/features/" title="FastAPI" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>
 	&nbsp;
-  <a href="https://redis.io/" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a> 
+  <a href="https://redis.io/" title="Redis" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a> 
 	&nbsp;
-  <a href="https://docs.celeryq.dev/en/stable/_static/celery_512.png" target="_blank" rel="noreferrer"> <img src="https://docs.celeryq.dev/en/stable/getting-started/introduction.html" alt="celery" width="40" height="40"/> </a>
+  <a href="https://docs.celeryq.dev/en/stable/_static/celery_512.png" title="Celery" target="_blank" rel="noreferrer"> <img src="https://docs.celeryq.dev/en/stable/getting-started/introduction.html" alt="celery" width="40" height="40"/> </a>
  	&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" title="React" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 	&nbsp;
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" title="HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
 	&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+  <a href="https://www.w3schools.com/css/" title="CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   	&nbsp;
-  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/docs/" title="PostreSQL" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="40" height="40"/> </a>
 	&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" title="MongoDB" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 	&nbsp;
-  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
+  <a href="https://docs.docker.com/" title="Docker" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
 	&nbsp;
-  <a href="https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://www.jenkins.io/doc/" title="Jenkins" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
 	&nbsp;
-  <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="jenkins" width="40" height="40"/> </a>
+  <a href="https://argo-cd.readthedocs.io/en/stable/" title="ArgoCD" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="jenkins" width="40" height="40"/> </a>
   	&nbsp;
-  <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://kubernetes.io/docs/home/" title="Kubernetes" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> </a>
 	&nbsp;
 	&nbsp;
-  <a href="https://www.atlassian.com/software/jira/guides/getting-started/introduction" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
+  <a href="https://www.atlassian.com/software/jira/guides/getting-started/introduction" title="JIRA" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
 	&nbsp;
-  <a href="https://www.atlassian.com/software/confluence/features" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/> </a>
+  <a href="https://www.atlassian.com/software/confluence/features" title="Confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/> </a>
 	&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+  <a href="https://postman.com" title="Postman" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 </br>
 
