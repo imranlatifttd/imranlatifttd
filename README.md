@@ -56,6 +56,7 @@
   	&nbsp;
   <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer"> <img src="https://raw.github.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" alt="kubernetes" width="40" height="40"/> </a>
 	&nbsp;
+	&nbsp;
   <a href="https://www.atlassian.com/software/jira/guides/getting-started/introduction" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/> </a>
 	&nbsp;
   <a href="https://www.atlassian.com/software/confluence/features" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/> </a>
