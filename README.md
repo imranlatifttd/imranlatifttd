@@ -6,11 +6,11 @@
 <img align="right" alt="Coding GIF" width="480" height="280px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjV3a3psMnp2Y2x0MHk5MzhqdjBpazlnNHlnNGZoZXFuemV1N3gzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🔭 I’m currently working on **AWS, Python, React**
+- 🔭 I’m currently working on **Python, FastAPI, AWS, GCP, Azure, Docker, AI Integration & DevOps**
 
 - 🌱 I’m currently learning **LLM's , AI**
 
-- 💬 Ask me about **AWS, Django, FastAPI, React.**
+- 💬 Ask me about **Backend and Cloud Engineering**
 
 - 📫 How to reach me **imranlatif631@gmail.com**
 <h3 align="left">Connect with me:</h3>
